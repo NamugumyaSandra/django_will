@@ -1,1 +1,4 @@
 .vscode
+myproject/boards/__pycache__
+myproject/boards/migrations/__pycache__
+myproject/myproject/__pycache__
